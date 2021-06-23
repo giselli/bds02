@@ -68,4 +68,5 @@ public class EventControllerIT {
 		
 		result.andExpect(status().isNotFound());
 	}
+	
 }
